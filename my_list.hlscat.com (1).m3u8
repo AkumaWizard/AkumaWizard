@@ -1,0 +1,376 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#0 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2241.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",AMC
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2200.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",AMC (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4773?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",AXN (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4776?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",AXN White (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55093?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Accion (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4818?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Antena 3 (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55006?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BABY TV
+http://showflix.org:5890/ali123/ali123123/70051?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BARCA TV
+http://gold.euromediaserver.com:80/cakar/cakar/59566?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LA LIGA HD
+http://gold.euromediaserver.com:80/cakar/cakar/59561?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LIGA 2
+http://gold.euromediaserver.com:80/cakar/cakar/59562?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CAZAyPESCA HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2208.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BEIN LIGA 3
+http://gold.euromediaserver.com:80/cakar/cakar/59563?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Baby TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2218.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Barca TV
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2232.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CANAL SUR 1 HD
+http://showflix.org:5890/ali123/ali123123/802?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CANAL SUR A.
+http://showflix.org:5890/ali123/ali123123/803?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CAZA Y PESCA
+http://showflix.org:5890/ali123/ali123123/922?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",COMEDY CENTRAL
+http://showflix.org:5890/ali123/ali123123/861?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",COSMO
+http://showflix.org:5890/ali123/ali123123/849?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",COSMO (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55072?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",COSMO (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55073?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CUATRO FHD
+http://showflix.org:5890/ali123/ali123123/786?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CRIMEN+INVES
+http://showflix.org:5890/ali123/ali123123/930?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Calle 13 (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55095?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Canal Costa HD
+http://showflix.org:5890/ali123/ali123123/957?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Canal Panda
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2217.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="http://cdn.teleon.tv/logo/canal_sur_andalucia_es.png" group-title="Undefined",Canal Sur
+https://originlive2.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Caza y Pesca (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55107?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Caza Y Pesca
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/630?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Comedy Central
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2201.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Cosmopolitan TV Europa HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2202.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Crimen Investigacion SD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/62147?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Cuatro (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55011?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DARK (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55098?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DAZN (M)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/23179?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1790?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY CHANNEL FHD
+http://showflix.org:5890/ali123/ali123123/938?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY JR
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1791?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISNEY JR
+http://showflix.org:5890/ali123/ali123123/940?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DECASA
+http://showflix.org:5890/ali123/ali123123/935?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY
+http://88.198.32.78:80/edis1/edis1/6832?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Disney +
+http://showflix.org:5890/ali123/ali123123/839?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Disney Channel
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2215.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",ESPN
+http://gold.euromediaserver.com:80/cakar/cakar/59573?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT 1
+http://gold.euromediaserver.com:80/cakar/cakar/59571?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT 1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2334?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT 2
+http://gold.euromediaserver.com:80/cakar/cakar/59572?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT1 ES
+http://showflix.org:5890/ali123/ali123123/869?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT2
+http://showflix.org:5890/ali123/ali123123/870?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 1
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2238.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 1 (TV)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/54992?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 2 (TV)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/54995?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FDF
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2213.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FOX (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55101?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FOX LIFE
+http://showflix.org:5890/ali123/ali123123/847?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FOX LIFE FHD
+http://showflix.org:5890/ali123/ali123123/846?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FOX Life
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2199.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FOX Life (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55104?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",GOL TV HD
+http://showflix.org:5890/ali123/ali123123/875?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",HISTORIA
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/70207.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",HOLLYWOOD
+http://showflix.org:5890/ali123/ali123123/858?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",HOLLYWOOD FHD
+http://showflix.org:5890/ali123/ali123123/857?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Historia (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55052?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",IBERALIA TV
+http://showflix.org:5890/ali123/ali123123/928?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA 1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1795?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA 1 FHD
+http://showflix.org:5890/ali123/ali123123/780?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA 2
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1796?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA 2 FHD
+http://showflix.org:5890/ali123/ali123123/782?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA LIGATV BAR HD
+http://gold.euromediaserver.com:80/cakar/cakar/59564?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA
+http://showflix.org:5890/ali123/ali123123/791?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LIGA 123 HD
+http://gold.euromediaserver.com:80/cakar/cakar/59554?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",La Liga TV BAR (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4788?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",La Ligatv bar FHD
+http://showflix.org:5890/ali123/ali123123/877?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Liga De Campeones (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4730?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M Action
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/639?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M DRAMA
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/641?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M FORMULA 1
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1797?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M SERIES
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/637?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M Seriesmania tv
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/632?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M Toros
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/635?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. Accion
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2246.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. Comedia
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2247.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. Deportes HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2233.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. Estrenos
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2244.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. Formula 1 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2235.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. Golf HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2236.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. LaLiga (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/54963?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. LaLiga 1 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2229.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. LaLiga 2 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2230.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. LaLiga H265 (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/54964?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. LaLiga HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2228.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. Liga De Campeones (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/54970?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. Liga de Campeones (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/54971?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. Series HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2242.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. Seriesmania HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2243.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M. Toros HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2237.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.ACCI©N FHD
+http://showflix.org:5890/ali123/ali123123/824?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.COMEDIA
+http://showflix.org:5890/ali123/ali123123/831?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.Cine Doc& Roll
+http://showflix.org:5890/ali123/ali123123/837?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.Cine Doc& Roll FHD
+http://showflix.org:5890/ali123/ali123123/836?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.Cine Espanol
+http://showflix.org:5890/ali123/ali123123/838?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.CineDoc Roll
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2248.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.Drama FHD
+http://showflix.org:5890/ali123/ali123123/828?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.ESTRENOS
+http://showflix.org:5890/ali123/ali123123/827?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.Lcampeon 1 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2225.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.Lcampeon 2 HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2226.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",M.Lcampeon HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2224.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MEGA (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55026?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MEGA HD
+http://showflix.org:5890/ali123/ali123123/800?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MOVISTAR COMEDIA
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/825?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR DEPORTES 1
+http://gold.euromediaserver.com:80/cakar/cakar/59556?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MOVISTAR ESTRENOS
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/827?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MOVISTAR F1 HD
+http://gold.euromediaserver.com:80/cakar/cakar/59568?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR FUTBOL
+http://gold.euromediaserver.com:80/cakar/cakar/59569?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MOVISTAR LIGA CAMPEONES HD
+http://gold.euromediaserver.com:80/cakar/cakar/59557?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MOVISTAR MOTO GP
+http://gold.euromediaserver.com:80/cakar/cakar/59570?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MOVISTAR SERIES
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/826?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MOVISTAR SERIES MANIA
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/70156.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MTV ESPA¹A
+http://showflix.org:5890/ali123/ali123123/947?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MTV Espana
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2222.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar ACCION (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4790?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Accion (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55123?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Cine Ñ (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4795?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar CineDoc&Roll (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55128?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar DRAMA (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4791?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar Deportes (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/54991?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar Deportes HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/62021?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Estrenos (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55136?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar F1 (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/54983?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Estrenos (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55137?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Formula 1 FHD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/62006?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar FORMULA 1
+http://showflix.org:5890/ali123/ali123123/891?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar GOLF FHD
+http://showflix.org:5890/ali123/ali123123/892?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar Golf (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/54988?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar MotoGP FHD
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63711?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Seriesmania (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55142?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NAT GEO
+http://showflix.org:5890/ali123/ali123123/924?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NAT GEO
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1798?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://showflix.org:5890/ali123/ali123123/926?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NAT GEO WILD FHD
+http://showflix.org:5890/ali123/ali123123/925?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NEOX
+http://showflix.org:5890/ali123/ali123123/792?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NICKELODEON
+http://showflix.org:5890/ali123/ali123123/943?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NICKELODEON
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/70246.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NICKELODEON FHD
+http://showflix.org:5890/ali123/ali123123/942?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NOVA
+http://showflix.org:5890/ali123/ali123123/793?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Nat Geo (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4756?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Nat Geo WILD (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4757?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Nat Geo Wild (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55055?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/62139?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",National Geographic HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/62136?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",National Geographic SD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/62135?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Nova (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55037?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Nickelodeon FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/26611?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Nickelodeon (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4797?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Od!sea
+http://showflix.org:5890/ali123/ali123123/934?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Odisea (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55040?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Paramount Network (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4762?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",REAL MADRID  TV
+http://gold.euromediaserver.com:80/cakar/cakar/59565?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Real Madrid TV (tr)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/60348?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",SUNDANCE TV
+http://showflix.org:5890/ali123/ali123123/856?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",SYFY HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2249.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TCM
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2197.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TCM
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2340?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TCM (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55150?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TELECINCO ES
+http://showflix.org:5890/ali123/ali123123/789?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TELECINCO FHD
+http://showflix.org:5890/ali123/ali123123/788?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TELEDEPORTE ES
+http://showflix.org:5890/ali123/ali123123/872?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TELEDEPORTE FHD
+http://showflix.org:5890/ali123/ali123123/871?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TNT
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2196.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TNT FHD
+http://showflix.org:5890/ali123/ali123123/850?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TOROS FHD
+http://showflix.org:5890/ali123/ali123123/873?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TOROS TV
+http://showflix.org:5890/ali123/ali123123/874?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Taquilla 2 (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55165?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Tele Deporte
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2359?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Telecinco (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55014?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Teledeporte (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Telenovelas
+http://showflix.org:5890/ali123/ali123123/805?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Toros TV (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55079?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",VAMOS HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2234.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",VIAJAR
+http://showflix.org:5890/ali123/ali123123/920?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",VIAJAR FHD
+http://showflix.org:5890/ali123/ali123123/919?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Viajar (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55076?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Viajar (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55075?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Viajar HD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2209.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Viajar HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/62130?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",liga de campeones tv
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/2341?checkedby:hlscat.com
