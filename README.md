@@ -1,2 +1,2 @@
-# AkumaWizard.github.io
+# AkumaWizard
 
